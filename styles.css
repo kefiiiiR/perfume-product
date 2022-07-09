@@ -115,9 +115,9 @@ img {
 /* MEDIA QUERY*/
 @media (max-width: 1200px) {
   .cont {
-  width: 90%;
-  }
-  
+    width: 90%;
+    }
+
   .img1 {
     display: none;
   }
